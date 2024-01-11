@@ -54,5 +54,5 @@ To replicate the Tableau dashboard:
 For more detailed documentation on the SQL queries or Tableau dashboard, refer to [Documentation.md](Documentation.md).
 
 ## Demo
-Explore the live Tableau dashboard [here]([#](https://public.tableau.com/app/profile/valy.jean/viz/CovidDashboard_17050127683440/Dashboard1?publish=yes)https://public.tableau.com/app/profile/valy.jean/viz/CovidDashboard_17050127683440/Dashboard1?publish=yes).
+Explore the live Tableau dashboard [here]((https://public.tableau.com/app/profile/valy.jean/viz/CovidDashboard_17050127683440/Dashboard1?publish=yes)https://public.tableau.com/app/profile/valy.jean/viz/CovidDashboard_17050127683440/Dashboard1?publish=yes).
 
