@@ -49,6 +49,8 @@ To replicate the Tableau dashboard:
 
 ## Credits
 - [Alex the Analyst](https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg) for providing the initial SQL sheet.
+- Data Source: [Our World in Data](https://ourworldindata.org/coronavirus) for the COVID-19 data.
+
 
 ## Documentation
 For more detailed documentation on the SQL queries or Tableau dashboard, refer to [Documentation.md](Documentation.md).
@@ -56,3 +58,4 @@ For more detailed documentation on the SQL queries or Tableau dashboard, refer t
 ## Demo
 Explore the live Tableau dashboard [here](https://public.tableau.com/app/profile/valy.jean/viz/CovidDashboard_17050127683440/Dashboard1?publish=yes).
 
+<img width="958" alt="Screenshot 2024-01-11 164022" src="https://github.com/vnjean/Covid-Dashboard/assets/67580325/8fbefd48-383c-44d1-a3fb-885dd5988316">
