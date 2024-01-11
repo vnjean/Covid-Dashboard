@@ -6,20 +6,11 @@ This project involves SQL queries for COVID-19 data analysis, utilizing datasets
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [Credits](#credits)
 - [Documentation](#documentation)
 - [Demo](#demo)
 
 ## Installation
-*Provide instructions on setting up the project locally, including any dependencies.*
-
-Certainly! If your project has specific requirements or dependencies, it's essential to guide users through the installation process. In your case, it seems like the installation involves executing SQL queries and working with Tableau. Here's an example section for the README:
-
----
-
-## Installation
-
 ### Prerequisites
 Before starting, ensure you have the following installed on your system:
 
@@ -55,9 +46,6 @@ To replicate the Tableau dashboard:
 2. Upload the resulting data to Tableau.
 3. Utilize the four Excel sheets, each serving a specific purpose, for visualization.
 
-## Contributing
-If you'd like to contribute to this project, please follow the guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
-
 
 ## Credits
 - [Alex the Analyst](https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg) for providing the initial SQL sheet.
@@ -66,8 +54,5 @@ If you'd like to contribute to this project, please follow the guidelines outlin
 For more detailed documentation on the SQL queries or Tableau dashboard, refer to [Documentation.md](Documentation.md).
 
 ## Demo
-Explore the live Tableau dashboard [here](#).
-
-## Contact
-For questions or feedback, please reach out to [Your Name] at [your@email.com].
+Explore the live Tableau dashboard [here]([#](https://public.tableau.com/app/profile/valy.jean/viz/CovidDashboard_17050127683440/Dashboard1?publish=yes)https://public.tableau.com/app/profile/valy.jean/viz/CovidDashboard_17050127683440/Dashboard1?publish=yes).
 
